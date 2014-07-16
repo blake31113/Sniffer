@@ -1,0 +1,6 @@
+mode=openstack #mode=openstack or controller
+monitor_ip=127.0.0.1
+nics=eth0
+hostName=nw-os2
+host_ip=127.0.0.1
+monitor_port=8081
